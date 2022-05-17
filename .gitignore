@@ -1,0 +1,9 @@
+/software
+/data
+/neural_networks/fourier_neural_operator_master
+*.log
+*.dmg
+*.bcf
+*.synctex.gz
+*.toc
+*.zip
