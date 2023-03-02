@@ -1,0 +1,8 @@
+textbf{ Model 4} & textbf{ Noise Level } & textbf{Itr No} & textbf{Recon Time /sec}  & textbf{RMSE} & textbf{PSNR} & textbf{SSIM} 
+GN |  & 0 & 22.55 \ textpm 3.31 & 25.89 \ textpm 3.87 & 0.00213 \ textpm 0.00108  &  27.55969 \ textpm 3.27086  &  0.91209 \ textpm 0.02914  \ \  
+GN |  & 0.005 & 23.39 \ textpm 6.59 & 27.74 \ textpm 8.21 & 0.00253 \ textpm 0.00095  &  25.43613 \ textpm 2.02679  &  0.87074 \ textpm 0.05766  \ \  
+GN |  & 0.01 & 20.03 \ textpm 5.02 & 23.66 \ textpm 6.13 & 0.00341 \ textpm 0.00083  &  22.49603 \ textpm 1.95159  &  0.79566 \ textpm 0.09943  \ \  
+GN |  & 0.015 & 16.67 \ textpm 4.83 & 19.2 \ textpm 5.54 & 0.00427 \ textpm 0.00073  &  20.40019 \ textpm 2.02651  &  0.73129 \ textpm 0.12302  \ \  
+GN |  & 0.02 & 13.8 \ textpm 5.3 & 16.01 \ textpm 6.18 & 0.00517 \ textpm 0.00097  &  18.75978 \ textpm 2.5377  &  0.68429 \ textpm 0.13391  \ \  
+GN |  & 0.025 & 10.72 \ textpm 4.49 & 12.17 \ textpm 5.11 & 0.00573 \ textpm 0.00092  &  17.83087 \ textpm 2.28276  &  0.64791 \ textpm 0.1335  \ \  
+GN |  & 0.03 & 9.64 \ textpm 4.76 & 10.92 \ textpm 5.4 & 0.00646 \ textpm 0.0011  &  16.80099 \ textpm 2.4754  &  0.6164 \ textpm 0.13929  \ \  

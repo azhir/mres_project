@@ -1,0 +1,5 @@
+textbf{No of Layers} & textbf{Width} & textbf{No of Parameters} & textbf{Training Time /sec} & textbf{RMSE} & textbf{PSNR} & textbf{SSIM} 
+2 & 500 & 160756 & 34.29 & 0.24359 \ textpm 0.00075  &  12.26678 \ textpm 0.02686  &  0.01271 \ textpm 0.00231
+3 & 500 & 411256 & 43.72 & 0.0033 \ textpm 0.00147  &  23.59036 \ textpm 2.90161  &  0.83204 \ textpm 0.04311
+2 & 400 & 128656 & 33.38 & 0.00334 \ textpm 0.0015  &  23.83111 \ textpm 2.74431  &  0.83015 \ textpm 0.03948
+3 & 400 & 289056 & 41.28 & 0.00372 \ textpm 0.00145  &  22.07932 \ textpm 2.12344  &  0.80674 \ textpm 0.04839
